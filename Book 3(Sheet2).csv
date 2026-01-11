@@ -1,0 +1,33 @@
+OrderID,Date,Month,Region,Product,Category,Quantity,UnitPrice,Revenue
+1001,2023-01-05,January,Athens,Laptop,Technology,2, 900.00 € ," 1,800.00 € "
+1002,2023-01-06,January,Thessaloniki,Mouse,Technology,5, 20.00 € , 100.00 € 
+1003,2023-01-10,January,Athens,Desk,Furniture,1, 250.00 € , 250.00 € 
+1004,2023-02-02,February,Patra,Chair,Furniture,4, 75.00 € , 300.00 € 
+1005,2023-02-10,February,Athens,Keyboard,Technology,3, 45.00 € , 135.00 € 
+1006,2023-03-01,March,Heraklion,Monitor,Technology,2, 200.00 € , 400.00 € 
+1007,2023-03-11,March,Thessaloniki,Desk,Furniture,1, 260.00 € , 260.00 € 
+1008,2023-03-11,March,Athens,Mouse,Technology,10, 18.00 € , 180.00 € 
+1009,2023-04-05,April,Patra,Chair,Furniture,6, 70.00 € , 420.00 € 
+1010,2023-04-12,April,Heraklion,Laptop,Technology,1, 950.00 € , 950.00 € 
+1011,2023-05-12,May,Athens,Chair,Furniture,4, 60.00 € , 240.00 € 
+1012,2023-05-12,May,Athens,Monitor,Technology,3, 220.00 € , 660.00 € 
+1013,2023-05-12,May,Thessaloniki,Monitor,Technology,1, 190.00 € , 190.00 € 
+1014,2023-06-12,June,Patra,Mouse,Technology,4, 30.00 € , 120.00 € 
+1015,2023-06-12,June,Patra,Laptop,Technology,5, 850.00 € ," 4,250.00 € "
+1016,2023-09-05,September,Heraklion,Mouse,Technology,8, 25.00 € , 200.00 € 
+1017,2023-09-12,September,Athens,Laptop,Technology,1," 1,000.00 € "," 1,000.00 € "
+1018,2023-09-13,September,Athens,Laptop,Technology,2, 920.00 € ," 1,840.00 € "
+1019,2023-12-13,December,Patra,Desk,Furniture,15, 300.00 € ," 4,500.00 € "
+1020,2023-12-13,December,Thessaloniki,Keyboard,Technology,7, 55.00 € , 385.00 € 
+,,,,,,,,
+,,,,,,,,
+Region,Sum of Revenue,Average of Revenue,,Product,Sum of Revenue,,Month,Sum of Revenue
+Thessaloniki, 935.00 € , 233.75 € ,,Laptop," 9,840.00 € ",,February, 435.00 € 
+Heraklion," 1,550.00 € ", 516.67 € ,,Desk," 5,010.00 € ",,March, 840.00 € 
+Athens," 6,105.00 € ", 763.13 € ,,Monitor," 1,250.00 € ",,May," 1,090.00 € "
+Patra," 9,590.00 € "," 1,918.00 € ",,Chair, 960.00 € ,,April," 1,370.00 € "
+Grand Total,18180,909,,Mouse, 600.00 € ,,January," 2,150.00 € "
+,,,,Keyboard, 520.00 € ,,September," 3,040.00 € "
+,,,,Grand Total,18180,,June," 4,370.00 € "
+,,,,,,,December," 4,885.00 € "
+,,,,,,,Grand Total,18180
